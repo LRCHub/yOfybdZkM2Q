@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "One Day",
+  "base_artist": "Omoinotake",
+  "createdAt": "2026-02-13T23:41:46.251354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Day Tonight",
+      "artist": "Noah Thompson",
+      "has_synced": true,
+      "path": "select/01_One_Day_Tonight_Noah_Thompson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer to You)",
+      "artist": "Larry Gatlin",
+      "has_synced": true,
+      "path": "select/02_Houston_(Means_I'm_One_Day_Closer_to_You)_Larry_Gatlin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Album Version)",
+      "artist": "Larry Gatlin",
+      "has_synced": true,
+      "path": "select/03_Houston_(Means_I'm_One_Day_Closer_To_You)_(Album_Version)_Larry_Gatlin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/04_Houston_(Means_I'm_One_Day_Closer_To_You)_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers Band",
+      "has_synced": true,
+      "path": "select/05_Houston_(Means_I'm_One_Day_Closer_To_You)_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) - Re-Recorded In Stereo",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/06_Houston_(Means_I'm_One_Day_Closer_To_You)_-_Re-Recorded_In_Stereo_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Re-Recorded In Stereo)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/07_Houston_(Means_I'm_One_Day_Closer_To_You)_(Re-Recorded_In_Stereo)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Day At A Time",
+      "artist": "Cristy Lane",
+      "has_synced": true,
+      "path": "select/08_One_Day_At_A_Time_Cristy_Lane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Day Longer",
+      "artist": "Richard Marx",
+      "has_synced": true,
+      "path": "select/09_One_Day_Longer_Richard_Marx.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Day She’s Here",
+      "artist": "Marcus King",
+      "has_synced": true,
+      "path": "select/10_One_Day_She’s_Here_Marcus_King.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Some Day One Day",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_Some_Day_One_Day_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One day",
+      "artist": "Paperboys",
+      "has_synced": true,
+      "path": "select/12_One_day_Paperboys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Day I'll Say Goodbye (Home Demo)",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/13_One_Day_I'll_Say_Goodbye_(Home_Demo)_The_Zombies.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Day",
+      "artist": "Omoinotake",
+      "has_synced": false,
+      "path": "select/pl_01_One_Day_Omoinotake.txt"
+    }
+  ]
+}
